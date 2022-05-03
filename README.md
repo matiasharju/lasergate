@@ -3,3 +3,5 @@
 The gadget uses a TOF (time of flight) sensor for measuring distance, and an Arduino-compatible board for logic. An A5WK relay operates the microphone signal and indication LED's. This version runs on a 9 V battery (doesn't support phantom power).
 
 I designed and built this in 2018 for a sound installation. Feel free to use the circuit diagram and Arduino sketches for your own purposes! However, if you come up with improvements, please share them with me!
+
+<img src="20180815_175225.jpg" alt="Lasergate2000" width="200"/>

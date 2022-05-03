@@ -5,3 +5,6 @@ The gadget uses a TOF (time of flight) sensor for measuring distance, and an Ard
 I designed and built this in 2018 for a sound installation. Feel free to use the circuit diagram and Arduino sketches for your own purposes! However, if you come up with improvements, please share them with me!
 
 <img src="20180815_175225.jpg" alt="Lasergate2000" width="600"/>
+<img src="20180815_181324.jpg" alt="Lasergate2000" width="400"/>
+<img src="20180815_171532.jpg" alt="Lasergate2000" width="400"/>
+
